@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "PC Gamer",
+      "price": "$ 2,000",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v1._SY304_CB573698005_.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dron S90",
+      "price": "$ 59.00",
+      "image": "https://m.media-amazon.com/images/I/71ea65b4PML._AC_SY200_.jpg",
+      "id": 2
+    },
+    {
+      "name": "Funko pop: Sam Wilson",
+      "price": "$ 3.00",
+      "image": "https://m.media-amazon.com/images/I/51y7m0AYLVL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "id": 3
+    },
+    {
+      "name": "Reloj Inteligente",
+      "price": "$ 19.00",
+      "image": "https://m.media-amazon.com/images/I/61q-MAfPbfL._AC_SX569_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Procesador Ryzen 7 5800X",
+      "price": "$ 189.00",
+      "image": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_SX300_SY300_.jpg",
+      "id": 5
+    },
+    {
+      "name": "HP Victus 15",
+      "price": "$ 500.00",
+      "image": "https://m.media-amazon.com/images/I/713skFDglHL._AC_UY218_.jpg",
+      "id": 6
+    }
+  ]
+}
